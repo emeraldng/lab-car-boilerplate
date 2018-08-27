@@ -16,7 +16,7 @@ i.icon-black {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center bottom;
-    height: 90vh;
+    height: 80vh;
     overflow: hidden;
     color: #fff;
     
@@ -62,3 +62,19 @@ i.icon-black {
     margin: 0; 
     padding: 0;
 }
+
+.wrapper3 {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../assets/images/conduce.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    height: 50vh;
+    overflow: hidden;
+    color: #fff;
+}
+
+.container3 {
+    text-align: left;
+    
+}
+
