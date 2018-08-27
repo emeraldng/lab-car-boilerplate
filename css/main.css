@@ -80,10 +80,43 @@ i.icon-black {
 
 .wrapper4 {
     background-color: #F7B617;
- }
+}
 
 .btn-ruta{
     align-content: center;
     
+}
+
+.wrapper5{
+    background-color: #2B2B2B;
+    display: table;
+    width: 100%;
+}
+
+.info-lista, .lista-apps {
+    display: table-cell;
+    
+  }
+
+.info-lista{
+    width: 50%;
+    text-align: left;
+}
+
+.lista-apps{
+    width: 50%;
+    text-align: right;
+    /* float: left; */
+}
+
+.social-media li{
+    text-align: right;
+    display:inline;
+    padding-left:3px;
+    padding-right:3px;
+}
+
+.fa{
+    color:white;
 }
 
