@@ -1,1 +1,35 @@
-/* Los estilos de tu proyecto */
+i.icon-black {
+    color: black;
+}
+
+.nav-wrapper {
+    background-color: white;
+}
+
+.wrapper {
+    position: relative;
+    background: url(../assets/images/taxi.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    height: 90vh;
+    overflow: hidden;
+    color: #fff;
+}
+
+.container {
+   
+    background-color: #F7B617;
+    text-align: center;
+    float: right;
+    width: 500px;
+    height: 300px;
+    vertical-align: middle;
+    
+}
+
+.sidenav{
+   
+    max-height: 500px;
+
+}
