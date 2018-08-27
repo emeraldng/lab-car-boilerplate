@@ -1,3 +1,7 @@
+body{
+    background-color: #F7B617
+}
+
 i.icon-black {
     color: black;
 }
@@ -15,6 +19,9 @@ i.icon-black {
     height: 90vh;
     overflow: hidden;
     color: #fff;
+    
+    margin: 0; 
+    padding: 0;
 }
 
 .container {
@@ -25,6 +32,10 @@ i.icon-black {
     width: 500px;
     height: 300px;
     vertical-align: middle;
+    border-collapse: collapse;
+    margin: 0; 
+    padding: 0;
+    
     
 }
 
@@ -32,4 +43,22 @@ i.icon-black {
    
     max-height: 500px;
 
+}
+
+.wrapper2 {
+   background-color: #F7B617;
+   margin: 0; 
+   padding: 0;
+   
+  
+}
+
+.container2 {
+   
+    background-color: #F7B617;
+    text-align: center;
+    display: block;  
+    position: relative;
+    margin: 0; 
+    padding: 0;
 }
