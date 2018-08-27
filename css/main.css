@@ -99,18 +99,18 @@ i.icon-black {
   }
 
 .info-lista{
-    width: 50%;
+    width: 80%;
     text-align: left;
 }
 
 .lista-apps{
-    width: 50%;
+    width: 20%;
     text-align: right;
     /* float: left; */
 }
 
 .social-media li{
-    text-align: right;
+    text-align: center;
     display:inline;
     padding-left:3px;
     padding-right:3px;
